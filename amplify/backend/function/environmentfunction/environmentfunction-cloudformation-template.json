@@ -69,7 +69,7 @@
         "Timeout": "25",
         "Code": {
           "S3Bucket": "amplify-environment-dev-92513-deployment",
-          "S3Key": "amplify-builds/environmentfunction-4b6c5a437a5a34656952-build.zip"
+          "S3Key": "amplify-builds/environmentfunction-4b4b667255632b696735-build.zip"
         }
       }
     },
