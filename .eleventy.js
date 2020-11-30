@@ -1,2 +1,5 @@
-module.exports={dir:{input:"src",output:"dist"}}
+module.exports={
+    env: process.env.NODE_ENV,
+    dir:{input:"src",output:"dist"}
+}
 
